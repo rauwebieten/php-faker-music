@@ -6,6 +6,8 @@ use Faker\Provider\Base;
 
 class Dance extends Base
 {
+    use Util;
+
     protected static $musicDanceRoles = [
         'DJ', 'D.J.', 'Deejay', 'M.C.'
     ];
@@ -58,7 +60,7 @@ class Dance extends Base
     public function musicDanceVerbContinuous()
     {
         $verb = $this->musicDanceVerb();
-        $verb = str_replace('eing', 'ing', $verb . 'ing');
+        $verb = $this->conjugateContinuous($verb);
         return $verb;
     }
 

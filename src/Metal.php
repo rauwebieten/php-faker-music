@@ -6,6 +6,8 @@ use Faker\Provider\Base;
 
 class Metal extends Base
 {
+    use Util;
+
     protected static $musicMetalArticles = [
         'The', 'My'
     ];
@@ -57,7 +59,7 @@ class Metal extends Base
     public function musicMetalVerbContinuous()
     {
         $verb = $this->musicMetalVerb();
-        $verb = str_replace('eing', 'ing', $verb . 'ing');
+        $verb = $this->conjugateContinuous($verb);
         return $verb;
     }
 

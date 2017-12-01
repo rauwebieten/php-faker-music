@@ -6,6 +6,8 @@ use Faker\Provider\Base;
 
 class Reggae extends Base
 {
+    use Util;
+
     protected static $musicReggaeRoles = [
         'King', 'Queen', 'Prince', 'Black',
     ];
@@ -46,8 +48,7 @@ class Reggae extends Base
     public function musicReggaeVerbNoun()
     {
         $verb = $this->musicReggaeVerb();
-        $verb = str_replace('eers', 'ers', $verb . 'ers');
-        $verb = preg_replace('/([e])([a-z])ers$/', '$1$2$2ers', $verb);
+        $verb = $this->conjugateContinuous($verb);
         return $verb;
     }
 

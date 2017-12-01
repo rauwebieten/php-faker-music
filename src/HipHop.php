@@ -6,6 +6,8 @@ use Faker\Provider\Base;
 
 class HipHop extends Base
 {
+    use Util;
+
     protected static $roles = [
         'MC', 'M.C.', 'Emcee', 'DJ', 'D.J.', 'Deejay', 'Master', 'Grandmaster', 'Grandwizard', 'Doctor', 'Dr.',
         'Daddy', 'Mixmaster', 'Grandmixer'
@@ -29,18 +31,14 @@ class HipHop extends Base
     ];
 
     protected static $musicHipHopVerbs = [
-        'Throw', 'Live', 'Kill', 'Move', 'Rock', 'Follow', 'Bounce', 'Flip', 'Scratch'
+        'Throw', 'Live', 'Kill', 'Move', 'Rock', 'Follow', 'Bounce', 'Flip', 'Scratch','Rap','Break','Rock',
     ];
 
-    protected static $musicHipHopVerbins = [
-        'Throwin\'', 'Livin\'', 'Killin\'', 'Movin\'', 'Rockin\'', 'Scratchin\'', 'Rappin\'', 'Breakin\''
-    ];
-
-    protected static $hiphopWhens = [
+    protected static $musicHipHopWhens = [
         'Forever', 'All The Time', 'To Da Break O Dawn', 'All Day', 'All Night',
     ];
 
-    protected static $hiphopArticles = [
+    protected static $musicHipHopArticles = [
         'The', 'This', 'Some',
     ];
 
@@ -78,19 +76,21 @@ class HipHop extends Base
         return static::randomElement(self::$musicHipHopVerbs);
     }
 
-    public function musicHipHopVerbins()
+    public function musicHipHopVerbContinuous()
     {
-        return static::randomElement(self::$musicHipHopVerbins);
+        $verb = static::randomElement(self::$musicHipHopVerbs);
+        $verb = $this->conjugateContinuous($verb);
+        return $verb;
     }
 
     public function musicHipHopWhen()
     {
-        return static::randomElement(self::$hiphopWhens);
+        return static::randomElement(self::$musicHipHopWhens);
     }
 
     public function musicHipHopArticle()
     {
-        return static::randomElement(self::$hiphopArticles);
+        return static::randomElement(self::$musicHipHopArticles);
     }
 
     public function musicHipHopPronounWithVerb()
@@ -132,13 +132,13 @@ class HipHop extends Base
         '{{musicHipHopArticle}} {{musicHipHopAdjective}} {{musicHipHopNoun}}',                     // the funky beat
         '{{musicHipHopPronounWithVerb}} {{musicHipHopAdjective}}',                              // i'm funky
         '{{musicHipHopPronounWithVerb}} {{musicHipHopAdjective}}, {{musicHipHopPronounWithVerb}} {{musicHipHopAdjective}}', // i'm funky, you're funky
-        '{{musicHipHopPronounWithVerb}} {{musicHipHopVerbins}} {{musicHipHopAdjective}}',            // i'm rappin' funky
-        '{{musicHipHopPronounWithVerb}} {{musicHipHopVerbins}} {{musicHipHopWhen}}',                 // i'm rappin' all day
+        '{{musicHipHopPronounWithVerb}} {{musicHipHopVerbContinuous}} {{musicHipHopAdjective}}',            // i'm rappin' funky
+        '{{musicHipHopPronounWithVerb}} {{musicHipHopVerbContinuous}} {{musicHipHopWhen}}',                 // i'm rappin' all day
         '{{musicHipHopPronounWithVerb}} {{musicHipHopArticle}} {{musicHipHopNoun}}',                 // I'm the beat
-        '{{musicHipHopVerbins}} {{musicHipHopAdjective}}',                                    // rappin' funky
-        '{{musicHipHopVerbins}} {{musicHipHopArticle}} {{musicHipHopNoun}}',                       // rappin' the beat
-        '{{musicHipHopVerbins}} {{musicHipHopArticle}} {{musicHipHopAdjective}} {{musicHipHopNoun}}',   // rappin' the funky beat
-        '{{musicHipHopVerbins}} {{musicHipHopWhen}}',                                          // rappin' all day
+        '{{musicHipHopVerbContinuous}} {{musicHipHopAdjective}}',                                    // rappin' funky
+        '{{musicHipHopVerbContinuous}} {{musicHipHopArticle}} {{musicHipHopNoun}}',                       // rappin' the beat
+        '{{musicHipHopVerbContinuous}} {{musicHipHopArticle}} {{musicHipHopAdjective}} {{musicHipHopNoun}}',   // rappin' the funky beat
+        '{{musicHipHopVerbContinuous}} {{musicHipHopWhen}}',                                          // rappin' all day
     ];
 
     public function musicHipHopAlbum()
