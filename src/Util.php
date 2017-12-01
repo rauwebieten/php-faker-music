@@ -25,4 +25,20 @@ trait Util
 
         return $verb;
     }
+
+    protected function toNoun($verb)
+    {
+        // if ends on consonant/vowel/consonant(but not x y or w)
+        $verb = preg_replace('/([^aeiou][aeiou])([^aeiouwxy])$/', '$1$2$2', $verb);
+
+        // change ending ie into y
+        $verb = preg_replace('/ie$/', 'y', $verb);
+
+        // remove trailing "e"
+        $verb = preg_replace('/e$/', '', $verb);
+
+        $verb .= 'ers';
+
+        return $verb;
+    }
 }

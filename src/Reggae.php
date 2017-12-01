@@ -48,7 +48,7 @@ class Reggae extends Base
     public function musicReggaeVerbNoun()
     {
         $verb = $this->musicReggaeVerb();
-        $verb = $this->conjugateContinuous($verb);
+        $verb = $this->toNoun($verb);
         return $verb;
     }
 
