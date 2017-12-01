@@ -3,6 +3,19 @@
 A pop music provider for 
 [fzaninotto/faker](https://github.com/fzaninotto/Faker)
 
+## Installation
+
+Install with composer.  
+Add to your composer.json file:
+
+```json
+{
+  "require": {
+    "rauwebieten/php-faker-music": "^1.0"
+  }
+}
+```
+
 ## Usage
 
 ```php
