@@ -1,6 +1,6 @@
 <?php
 
-namespace RauweBieten\HipHopGenerator;
+namespace RauweBieten\PhpFakerMusic;
 
 
 trait Util

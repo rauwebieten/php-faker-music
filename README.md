@@ -9,11 +9,11 @@ A pop music provider for
 <?php
 
 $faker = \Faker\Factory::create();
-$faker->addProvider(new \RauweBieten\HipHopGenerator\Metal($faker));
-$faker->addProvider(new \RauweBieten\HipHopGenerator\Dance($faker));
-$faker->addProvider(new \RauweBieten\HipHopGenerator\Classical($faker));
-$faker->addProvider(new \RauweBieten\HipHopGenerator\Reggae($faker));
-$faker->addProvider(new \RauweBieten\HipHopGenerator\HipHop($faker));
+$faker->addProvider(new \RauweBieten\PhpFakerMusic\Metal($faker));
+$faker->addProvider(new \RauweBieten\PhpFakerMusic\Dance($faker));
+$faker->addProvider(new \RauweBieten\PhpFakerMusic\Classical($faker));
+$faker->addProvider(new \RauweBieten\PhpFakerMusic\Reggae($faker));
+$faker->addProvider(new \RauweBieten\PhpFakerMusic\HipHop($faker));
 
 echo $faker->musicHipHopArtist() .' - ' . $faker->musicHipHopAlbum();
 ```
