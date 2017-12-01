@@ -31,7 +31,7 @@ class HipHop extends Base
     ];
 
     protected static $musicHipHopVerbs = [
-        'Throw', 'Live', 'Kill', 'Move', 'Rock', 'Follow', 'Bounce', 'Flip', 'Scratch','Rap','Break','Rock',
+        'Throw', 'Live', 'Kill', 'Move', 'Rock', 'Follow', 'Bounce', 'Flip', 'Scratch', 'Rap', 'Break', 'Rock',
     ];
 
     protected static $musicHipHopWhens = [
@@ -80,6 +80,7 @@ class HipHop extends Base
     {
         $verb = static::randomElement(self::$musicHipHopVerbs);
         $verb = $this->conjugateContinuous($verb);
+        $verb = preg_replace('/ing$/', "in'", $verb);
         return $verb;
     }
 
@@ -121,24 +122,42 @@ class HipHop extends Base
     }
 
     protected static $albumFormats = [
-        '{{musicHipHopVerb}} {{musicHipHopAdjective}}',                            // get funky
-        '{{musicHipHopAdjective}} {{musicHipHopNoun}}',                                       // Funky Beat
-        '{{musicHipHopArticle}} {{musicHipHopAdjective}} {{musicHipHopNoun}}',                     // The Funky Beat
-        '{{musicHipHopVerb}} The {{musicHipHopNoun}}',                                        // Throw The Beat
-        '{{musicHipHopAdjective}} & {{musicHipHopAdjective}}',                                // Funky & Deadly
-        '{{musicHipHopAdjective}}, {{musicHipHopAdjective}} & {{musicHipHopAdjective}}',           // Funky, Cool & Deadly
-        '{{musicHipHopArticle}} {{musicHipHopNoun}}',                                         // the beat
-        '{{musicHipHopArticle}} {{musicHipHopNoun}} is {{musicHipHopAdjective}}',                  // the beat is funky
-        '{{musicHipHopArticle}} {{musicHipHopAdjective}} {{musicHipHopNoun}}',                     // the funky beat
-        '{{musicHipHopPronounWithVerb}} {{musicHipHopAdjective}}',                              // i'm funky
-        '{{musicHipHopPronounWithVerb}} {{musicHipHopAdjective}}, {{musicHipHopPronounWithVerb}} {{musicHipHopAdjective}}', // i'm funky, you're funky
-        '{{musicHipHopPronounWithVerb}} {{musicHipHopVerbContinuous}} {{musicHipHopAdjective}}',            // i'm rappin' funky
-        '{{musicHipHopPronounWithVerb}} {{musicHipHopVerbContinuous}} {{musicHipHopWhen}}',                 // i'm rappin' all day
-        '{{musicHipHopPronounWithVerb}} {{musicHipHopArticle}} {{musicHipHopNoun}}',                 // I'm the beat
-        '{{musicHipHopVerbContinuous}} {{musicHipHopAdjective}}',                                    // rappin' funky
-        '{{musicHipHopVerbContinuous}} {{musicHipHopArticle}} {{musicHipHopNoun}}',                       // rappin' the beat
-        '{{musicHipHopVerbContinuous}} {{musicHipHopArticle}} {{musicHipHopAdjective}} {{musicHipHopNoun}}',   // rappin' the funky beat
-        '{{musicHipHopVerbContinuous}} {{musicHipHopWhen}}',                                          // rappin' all day
+        // get funky
+        '{{musicHipHopVerb}} {{musicHipHopAdjective}}',
+        // Funky Beat
+        '{{musicHipHopAdjective}} {{musicHipHopNoun}}',
+        // The Funky Beat
+        '{{musicHipHopArticle}} {{musicHipHopAdjective}} {{musicHipHopNoun}}',
+        // Throw The Beat
+        '{{musicHipHopVerb}} The {{musicHipHopNoun}}',
+        // Funky & Deadly
+        '{{musicHipHopAdjective}} & {{musicHipHopAdjective}}',
+        // Funky, Cool & Deadly
+        '{{musicHipHopAdjective}}, {{musicHipHopAdjective}} & {{musicHipHopAdjective}}',
+        // the beat
+        '{{musicHipHopArticle}} {{musicHipHopNoun}}',
+        // the beat is funky
+        '{{musicHipHopArticle}} {{musicHipHopNoun}} is {{musicHipHopAdjective}}',
+        // the funky beat
+        '{{musicHipHopArticle}} {{musicHipHopAdjective}} {{musicHipHopNoun}}',
+        // i'm funky
+        '{{musicHipHopPronounWithVerb}} {{musicHipHopAdjective}}',
+        // i'm funky, you're funky
+        '{{musicHipHopPronounWithVerb}} {{musicHipHopAdjective}}, {{musicHipHopPronounWithVerb}} {{musicHipHopAdjective}}',
+        // i'm rappin' funky
+        '{{musicHipHopPronounWithVerb}} {{musicHipHopVerbContinuous}} {{musicHipHopAdjective}}',
+        // i'm rappin' all day
+        '{{musicHipHopPronounWithVerb}} {{musicHipHopVerbContinuous}} {{musicHipHopWhen}}',
+        // I'm the beat
+        '{{musicHipHopPronounWithVerb}} {{musicHipHopArticle}} {{musicHipHopNoun}}',
+        // rappin' funky
+        '{{musicHipHopVerbContinuous}} {{musicHipHopAdjective}}',
+        // rappin' the beat
+        '{{musicHipHopVerbContinuous}} {{musicHipHopArticle}} {{musicHipHopNoun}}',
+        // rappin' the funky beat
+        '{{musicHipHopVerbContinuous}} {{musicHipHopArticle}} {{musicHipHopAdjective}} {{musicHipHopNoun}}',
+        // rappin' all day
+        '{{musicHipHopVerbContinuous}} {{musicHipHopWhen}}',
     ];
 
     public function musicHipHopAlbum()
