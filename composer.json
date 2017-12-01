@@ -1,5 +1,5 @@
 {
-  "name": "rauwebieten/faker-music",
+  "name": "rauwebieten/php-faker-music",
   "require": {
     "fzaninotto/faker": "^1.7"
   },
