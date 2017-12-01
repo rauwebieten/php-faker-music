@@ -17,12 +17,14 @@ foreach (['Metal', 'Dance', 'Classical', 'Reggae', 'HipHop'] as $genre) {
 
     // generate table header
     $output .= "Artist | Album" . PHP_EOL;
-    $output .= "--- | ---" . PHP_EOL . PHP_EOL;
+    $output .= "--- | ---" . PHP_EOL;
 
     // generate 100 table rows with hiphop data
     foreach (range(1, 100) as $i) {
         $output .= $faker->{"music{$genre}Artist"}() . " | " . $faker->{"music{$genre}Album"}() . PHP_EOL;
     }
+
+    $output.= PHP_EOL;
 }
 
 // put contents in md file

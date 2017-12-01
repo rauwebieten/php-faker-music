@@ -2,524 +2,524 @@
 
 Artist | Album
 --- | ---
+Vile | Slay The Dead Vomit
+My Desolate Goat | Murdering My Fate
+My Brutal | Mutilate My Unholy Gore
+The Savage | Torturing My Ghoul
+Iron Witchcraft | Hunting My Zombie
+Creepy Mass | Slaughtering My Carnage
+Medieval | Murder The Hound
+The Shocking Judas | Pester The Foul Poison
+My Jesus | Embrace The Nuclear Zombie
+The Medieval | Decapitate The Vile Murder
+The Nuclear Cemetary | Slaughter My Coffin
+The Judas | Oppressing My Saint
+Feast | Oppressing The Grave
+My Decapitated Mercy | Pester The Terminal Jesus
+The Savage Flesh | Slaughtering The Lord
+My Lord | Obey My Carnage
+Sadistic Ritual | Destroy My Death
+The Castle | Deface The Deceased Witchcraft
+Cadaver | Hunt The Ghoul
+Vomit | Obey The Doom
+My Bloody Cemetary | Pester The Decapitated Hound
+The Scorn | Defacing My Hound
+The Necrophobic | Obey My Black Scorn
+Fallen Church | Mutilate The Castle
+Atrocity | Oppress My Annihilation
+My Profane Burial | Obeying My Atrocity
+Vengeful Judas | Assault My Iron Obituary
+My Foul | Obey My Carnage
+The Grim Garden | Suffering The Garden
+Skull | Suffer My Scorn
+My Cemetary | Murder My Corpse
+Goat | Pestering The Assault
+My Grave | Oppress The Jesus
+Insolent Mass | Decapitating My Judas
+Profane Cannibal | Kill The Corpse
+Nuclear Death | Murder The Necrophobic Skull
+The Terminal | Kill The Cannibal
+Vulgar | Obeying The Pentagram
+Church | Destroy The Astral Castle
+My Shocking | Blasting My Carnage
+Frozen | Destroy The Slaughter
+Carnage | Hail The Necrophobic Angel
+Witch | Oppress My Possessed Hell
+The Black | Obey My Sinister Murder
+Skull | Blasting My Witchcraft
+The Angel | Butcher The Vile Hound
+Mercy | Pester My Deceased Slaughter
+The Deceased Cadaver | Embracing The Slaughter
+Insolent | Obeying The Satan
+My Astral | Slaughter The Torture
+My Vengeful Scorn | Deface My Grave
+Nuclear Ghoul | Mutilate The Hell
+Deadly Hammer | Slaughter The Murder
+Sadistic Nightmare | Murdering The Sabbath
+Sinister Lobotomy | Blast My Vengeful Vomit
+The Nuclear | Hail The Ancient Feast
+The Heavy | Purging The Annihilation
+Repulsive Parasite | Assault My Lord
+My Sinister | Torturing My Doom
+Mass | Destroying My Assault
+The Coffin | Mutilate The Pentagram
+Vile | Slaughter My Cold Hell
+My Parasite | Slaughter The Witchcraft
+Ancient Torture | Suffer My Gore
+My Rotting Demon | Mutilating My Flesh
+The Frozen Throne | Suffer The Slaughter
+The Murder | Mutilating My Grave
+The Possessed | Decapitate My Dark Goat
+Profane | Torture The Hidden Demon
+Foul Parasite | Embracing The Saint
+The Doom | Murder My Pentagram
+The Dark Satan | Murder The Doom
+The Carcass | Mutilate My Brutal Corpse
+Cold | Embrace My Foul Hell
+Gloomy | Killing The Gore
+My Hammer | Torture The Buried Torture
+Gloomy | Slaughtering My Throne
+The Deadly | Decapitate The Divine Destroyer
+Mass | Butcher My Beast
+The Hell | Slaughtering The Torture
+Dead | Kill My Desolate Corpse
+King | Torture The Bloody Church
+The Grim Assault | Decapitate The Bestial Garden
+Jesus | Mutilating The King
+The Terror | Murder My Corpse
+My Cold Satan | Slay My Bewitched Garden
+The Assault | Suffering My Feast
+Demon | Embrace The Damned Ghoul
+Desolate | Butchering My King
+Insolent Coffin | Purge The Evil Lord
+The Undead | Hunting The Lord
+My Iron | Oppress My Torture
+The Sabbath | Assaulting My Beast
+My Conspiracy | Purge My Profane Murder
+Judas | Mutilating My Saint
+My Nuclear | Pester My Buried Angel
+My Astral | Pester My Divine Throat
+Hidden | Blast My Black Annihilation
+My Saint | Kill The Terror
+Mass | Assault The Hidden Goat
 
-The Undead Hound | Hunting The Witchcraft
-Shocking | Hailing The Sabbath
-Atrocity | Blasting The Annihilation
-Deadly Saint | Defacing My Sabbath
-Profane | Embrace My Judas
-My Gloomy | Hail My Deceased Angel
-My Burial | Murdering The Sabbath
-Ancient Assault | Destroy My Vile Lobotomy
-Vengeful | Hailing My Mass
-Funeral | Hail The Rotting Church
-Damned Conspiracy | Murder The Cemetary
-The Frozen Lord | Embrace The Hollow Castle
-Ancient Hammer | Decapitate The Murder
-My Murder | Oppressing The Priest
-Terminal | Suffering The Obituary
-Hidden Scorn | Slay The Lunatic Cadaver
-My Witchcraft | Murder The Dead Hammer
-My Dead Blood | Oppressing My Burial
-Profane | Torture The Brutal Hammer
-Pentagram | Slaying My Ritual
-Savage | Obeying My Lord
-Necrophobic | Slay My Terminal Death
-My Burial | Obey My Lord
-Medieval | Slaughter My Decapitated Hound
-Parasite | Suffer My Savage Gore
-The Cold Funeral | Slaughter My Carnage
-Evil | Destroy My Black Jesus
-Insolent Gore | Slay The Shocking Witch
-My Desolate Carnage | Hunting My Slaughter
-The Deceased | Assault The Judas
-The Pentagram | Torture My Jesus
-Grave | Butchering The Nightmare
-The Iron | Decapitating The Gate
-Vile | Decapitating The Throne
-The Cold Mercy | Decapitate The Poison
-The Rotten Hell | Killing The Priest
-The Black | Butchering The Throne
-My Gore | Decapitating My Scorn
-My Dead | Pester The Zombie
-My Undead Terror | Pestering The Carcass
-Atrocity | Butcher My Fate
-The Vile Conspiracy | Obey My Scorn
-Divine Priest | Pester The Hollow Hammer
-Sinister | Embracing The Sabbath
-Witchcraft | Purging My Feast
-The Doom | Blasting The Conspiracy
-Lord | Purge The Satan
-My Hammer | Slay The King
-Church | Blasting The Mass
-Bloody Slaughter | Decapitate The Cannibal
-Mercy | Pestering The Garden
-My Deadly Demon | Assault My Satan
-My Possessed | Decapitate My Desolate Hound
-Heavy | Slaughter The Goat
-Undead | Suffer My Bestial Assault
-Decapitated | Mutilate The Corpse
-Astral | Destroy My Ancient Jesus
-Terror | Slay The Mass
-My Assault | Mutilate My Buried Cadaver
-My Insolent | Obey The Jesus
-My Hammer | Assault My Parasite
-Lord | Murdering My Castle
-Fate | Hail My Throne
-My Desolate Mercy | Hailing The Church
-Grim | Oppressing The Torture
-Destroyer | Purging The Doom
-Cold Pentagram | Pester The Profane Hell
-Bestial | Embracing My Beast
-Vengeful | Obey The Decapitated Castle
-Frozen | Murder My Satan
-My Insolent Slaughter | Hunting My Creeper
-Beast | Slaughter The Undead Carcass
-The Ancient | Pestering The Throne
-Savage Lord | Assaulting The Ghoul
-Vile | Suffer The Cemetary
-Fallen | Purge The Dark Coffin
-Repulsive | Hailing The Torture
-The Ancient Garden | Murdering My Cannibal
-My Damned | Assault My Heavy Hell
-Angel | Kill The Cannibal
-My Skull | Decapitate The Terminal Skull
-Medieval | Murdering The Goat
-Grim Witchcraft | Obey My Gloomy Blood
-Funeral | Hail My Throat
-Decapitated Flesh | Destroying The Obituary
-Dark Gate | Butcher The Annihilation
-The Haunted Skull | Slaughter My Mass
-Hidden Corpse | Mutilating The Scorn
-Corpse | Mutilating My Lord
-My Scorn | Deface The Grave
-My Morbid | Destroy My Gloomy Goat
-My Torture | Murder The Ancient Scorn
-Ancient Pentagram | Decapitating My Witch
-Creeper | Slay The Conspiracy
-Brutal Funeral | Obey My Vile Scorn
-My Brutal | Torturing My Skull
-My Atrocity | Decapitate My Rotten Skull
-Terminal | Pestering The Satan
-The Mercy | Torturing The Garden
-My Feast | Butchering The Satan
 # Dance
 
 Artist | Album
 --- | ---
+M.C. Cruz | Need My Party
+Deejay Gerson | The Summer
+Otha Hahn | My Respect is Working
+Deejay Hubert | My Sky is Kissing
+M.C. Brown | My House of Summer
+Evangeline Koss | The Summer is Grabing
+M.C. Kathryn | The Beach
+Deejay Lavon | My Delight is Loving
+Dock Tremblay | My Love
+Madison Heathcote | Burn My Deep Lust
+M.C. Burnice | My Respect is Sweaty
+Sigmund Zieme | My Delight is Seductive
+Roslyn Baumbach | Groove The Groove
+M.C. Amelie | Loving The Sky
+Felicita Lowe | Grab The Deep Passion
+Bruce Schulist | Love The Sunshine
+Liliane Gislason | The House is Burning
+Tracy Gulgowski | Control The Beach
+Consuelo Waters | Taste The Beat
+DJ Arlene | The Dancefloor is Kissing
+Maci Hane | Work My Sun
+D.J. Nichole | The House
+D.J. Clarabelle | Kiss The Beach
+M.C. Tianna | My Sunshine is Adoring
+M.C. Deshaun | My Fever of Beat
+Deejay Katrine | My Sunshine is Warm
+DJ Lavonne | The Delight
+Dominique Gaylord | The Fever is Grooving
+Jan Kuvalis | My Summer
+Deejay Arthur | Taste The Jazzy Groove
+D.J. Tina | The Time is Kissing
+Deejay Carmela | Kiss The Love
+Vallie Abshire | The Beach is Sexy
+D.J. Keshaun | Start My Groovy Lust
+D.J. Domenick | Feel My Summer
+Carlotta Lesch | The Passion is Jazzy
+Emelie Cormier | My Summer is Spreading
+Deejay Gaston | Tasting My Love
+Sarai Cartwright | Touch My Sky
+D.J. Dayna | The Fever is Sexy
+M.C. Deshaun | Tasting My Love
+Deejay Peggie | My Beach is Working
+M.C. Maria | Feel The Funky Time
+DJ Danielle | My Emotion
+D.J. Reilly | My Devotion of Emotion
+Dwight Metz | Loving The Space
+Delphia Barton | Touch My Fever
+Curtis Harris | My Fever of Beat
+DJ Jeffrey | My Sun
+D.J. Baylee | Sing The Groovy Dancefloor
+Ashlee Turner | My Disco is Controling
+M.C. Rod | The Space is Dancing
+Lilyan Schuster | Kissing The Groove
+Deejay Maybelle | Burning My Emotion
+Stephania Welch | Taste My Beach
+Solon Moore | The Groove is Deep
+Deejay Raquel | The Sky
+Autumn Rath | Dancing My Space
+D.J. Rosalinda | My Groove is Deep
+Edwin Wehner | Start The Groove
+Madalyn Bergstrom | Feel My Sky
+Lilliana Harvey | My Respect of Lust
+Deejay Herman | Controling My Love
+Gunnar Flatley | My Respect
+M.C. Chandler | Adore My Groovy Passion
+M.C. Blair | The Dancefloor of Sunshine
+Deejay Ayden | The Beat
+Laurianne Nienow | The House
+Raphael Gerhold | Taste The Fever
+Marilou Schowalter | My Space of Disco
+Mitchel Huels | My Sun is Needing
+Jeff Walker | Feel My Devotion
+D.J. Lucienne | Controling The Passion
+Destinee Ondricka | Sing My Sweaty Fever
+D.J. Lawson | The Respect is Jazzy
+M.C. Maybelle | Control The Hot Party
+Helga Kunze | Sing My Disco
+Veda Doyle | The Party is Deep
+Elmira McCullough | Spread The Groovy Space
+Scarlett Hoeger | Touch My Sizzling Emotion
+Rahsaan Kling | The Groove of Fever
+DJ Filiberto | The Beach is Wild
+Margret Schoen | The Time
+DJ Zachery | The Party is Burning
+Jefferey Harber | My Fever
+Nicola Hamill | Touching The Sun
+D.J. Lela | My Club of Beach
+Tremaine Nader | The Passion
+M.C. Macy | My Delight is Deep
+DJ Jeanne | Starting My House
+Brianne Fahey | Grabing The Dancefloor
+M.C. Bertha | The Emotion of Summer
+Deejay Earnestine | Grooving The Sun
+D.J. Nayeli | Kiss The Beach
+Deejay Jeanne | My Devotion is Sweaty
+Destiny Koepp | The Sunshine of Respect
+Willy Halvorson | Tasting My House
+Loyce Schroeder | My Party of Delight
+Lourdes Runolfsdottir | Grab The Summer
+Jeanie Shields | Work The Sweaty Emotion
 
-Alexa Littel | Grab The Devotion
-Hanna O'Conner | My Delight is Burning
-M.C. Horace | My Passion of Groove
-Anika Bartell | The Beat of Respect
-Ara Price | My Passion is Starting
-Yolanda Barton | The Disco is Groovy
-DJ Kylee | Grabing The Dancefloor
-M.C. Kattie | My Lust
-D.J. Kasey | Feel The Sweaty Sky
-M.C. Matt | Adore My Hot Summer
-M.C. Hardy | My Devotion is Needing
-Diamond Baumbach | Love The Beach
-D.J. Giuseppe | The Fever
-D.J. Anissa | My Beach of Dancefloor
-M.C. Ida | My Lust
-M.C. Guiseppe | Dance My Funky Party
-Mossie Schroeder | The Sun is Spining
-Deejay Frederique | My Party
-D.J. Arely | The Lust is Burning
-Deejay Nicola | My Sunshine
-Jaqueline Purdy | Singing My Disco
-Edmond Maggio | The Delight
-M.C. Gabriella | Burning The Emotion
-Lila Macejkovic | Sing The Passion
-Deejay Kristina | Taste My Party
-M.C. Nigel | Feeling My Emotion
-D.J. Amina | My Lust is Adoring
-Deejay Muriel | My Time is Controling
-Darryl Barton | Touch The Warm Sky
-M.C. Kamron | The Sunshine is Sizzling
-Deejay Cielo | The Delight is Hot
-Emilio Quitzon | The Beat of Beat
-Verla Senger | Work My Jazzy Sun
-D.J. Kelsi | The Club is Sizzling
-Ara Hudson | Burn The Deep Lust
-Jamir Powlowski | The Emotion
-D.J. Marlon | The Emotion
-M.C. Major | My Fever of Sky
-Deejay Lance | The Sunshine is Sizzling
-DJ Verona | The Beach
-D.J. Katlyn | Groove The Sexy Fever
-Deejay Letitia | Spining My Devotion
-Pansy Bashirian | The Summer of House
-M.C. Keely | My Club is Controling
-D.J. Gail | My Disco is Working
-Mary Bode | The Lust
-Alexandra Toy | The Respect
-Silas Corkery | The Time of Sun
-DJ Hugh | Needing My Disco
-Makayla Botsford | The Sun is Feeling
-Joanie Wilderman | The Beat is Grabing
-Deejay Khalid | Spreading My Passion
-Colleen Mann | Burn My Deep Space
-D.J. Abdullah | My Passion is Seductive
-DJ Marlon | The House
-Mariela Reilly | My Groove
-Deejay Amara | My Club is Burning
-M.C. Eden | Spining My Beat
-Deejay Arnoldo | Burning My Groove
-Malcolm Cassin | Start The Sizzling Party
-Reymundo Thiel | My Club of Sun
-Emil Streich | My Beach of House
-M.C. Alejandra | Touching The Love
-M.C. Mabelle | Start My Lust
-Rosetta Nader | The Delight of Time
-Deejay Arlo | Touching The Dancefloor
-M.C. D'angelo | Grabing The Disco
-Unique Johns | My Passion is Starting
-Amya Ernser | Spread The House
-Mathias O'Connell | Starting The Space
-Demarcus Russel | My Space is Tasting
-D.J. Ana | My Sunshine is Sexy
-DJ Kyra | My House is Feeling
-DJ Cordie | The Sun of Sky
-Deejay Jocelyn | Kiss The Sizzling Sunshine
-D.J. Alexandrine | The Space of Space
-Darian Zemlak | Start My Wild Beach
-Rebekah Windler | The Passion is Spining
-Wanda Emard | My Beach
-M.C. Adelle | The Passion is Warm
-Cloyd Kutch | The Space of Delight
-Audie Wyman | The Dancefloor of Devotion
-Deejay Mohamed | My Club of Respect
-D.J. Santos | The Fever of Club
-DJ Wyman | The Club
-Juwan Wuckert | Work The Beach
-Donato Hartmann | The Space is Tasting
-D.J. Heidi | My Passion is Deep
-Deejay Mason | The Emotion is Spining
-M.C. Jaquan | My Party is Deep
-Beverly Kling | The Fever of Passion
-Deejay Aimee | Grab My Warm Delight
-Beaulah Armstrong | Burning My Beach
-Dora Gorczany | My Fever is Loving
-Deejay Giles | My Passion is Funky
-Lauryn Funk | My Time is Hot
-Jacinthe Trantow | My Groove is Funky
-Abbey Lehner | Needing My Time
-Deejay Ardith | The Club is Adoring
-D.J. Elisa | The Groove is Spreading
 # Classical
 
 Artist | Album
 --- | ---
+Angie Judah Champlin | Harpsichord Suite
+Freeman Eda Kertzmann | Suite for Flute in C Major
+Mervin Manuela Veum | Piano Sonata No. 8
+Mortimer Alexys Marquardt | Etude for Harpsichord No. 5
+Barbara Hallie O'Kon | Concerto for Percussion in G Minor
+Shea Monty Dickens | Percussion Symphony No. 5
+Darius Ciara Block | Flute Etude
+Jazmyne Nora Waelchi | Percussion Concerto No. 1
+Lew Alexandre Walker | Etude for Piano No. 3
+Wayne Trenton O'Conner | Trumpet Suite in G Minor
+Edmund Sandy Christiansen | Prelude for Violin in D 
+Abdul Kylie Mraz | Concerto for Cello No. 8
+Ludie Javier Hackett | Piano Sonata
+Chadrick Moriah Kilback | Prelude for Percussion and Violin
+Jose Jaylin Carroll | Overture for Cello and Harpsichord
+Cecilia Kaitlyn Ebert | Symphony for Piano and Percussion
+Ena Fannie Lehner | Symphony for Clarinet No. 1
+Jayda Trystan Hirthe | Horn Requiem No. 8
+Marc Rico Leffler | Prelude for Viola and Viola
+Merlin Luna Wolf | Horn Sonata in G Major
+Louisa Jamir Yost | Etude for Violin and Flute
+Thurman Adah Johnson | Overture for Viola No. 1
+Sasha Antonia Schinner | Overture for Trumpet in F 
+Mike Vivian Shields | Prelude for Horn and Violin
+Kenya Emiliano Johnston | Requiem for Horn in B Minor
+Eva Emmitt Abbott | Violin Etude in C 
+Elouise Adolph Ondricka | Trumpet Etude No. 9
+Christophe Adaline Boehm | Symphony for Cello in E Minor
+Karlie Brandyn Botsford | Suite for Horn in G 
+Laverne Hazle Willms | Etude for Flute No. 2
+Blaze Julius Kris | Concerto for Viola No. 5
+Ari Freddy Jaskolski | Overture for Cello in B 
+Virgil Jamey Dickinson | Sonata for Cello No. 3
+Dixie Ibrahim Kreiger | Violin Suite No. 3
+Valerie Alexander Howe | Violin Concerto
+Pete Pinkie Howe | Violin Prelude in E 
+Lesly Joy Romaguera | Viola Prelude No. 6
+Russel Marianna Crooks | Suite for Viola in F Major
+Kaden Cydney Homenick | Requiem for Trumpet and Flute
+Nelda Corine Dare | Sonata for Percussion in A Minor
+Ahmad Leland Ferry | Flute Concerto in D Minor
+Cristobal Libbie Leffler | Cello Prelude No. 8
+Antonietta Kailee Hartmann | Concerto for Flute in C 
+Brenda Maye Shanahan | Harpsichord Sonata No. 7
+Jarvis Justyn Stiedemann | Requiem for Violin and Percussion
+Anibal Marc Hoppe | Suite for Violin in A Major
+Koby Rick Jerde | Trumpet Prelude in D Minor
+Candida Muhammad Kshlerin | Concerto for Violin No. 9
+Jaycee Jordyn Dach | Suite for Harp and Piano
+Natasha Amiya Kuphal | Requiem for Percussion in C Minor
+Eden Alva Nitzsche | Overture for Violin and Harpsichord
+Holden Cyrus Schmitt | Suite for Horn and Piano
+Carmel Louvenia Brown | Etude for Cello and Viola
+Wendell Jazmin Bailey | Viola Etude
+Imani Shyann Langosh | Horn Requiem in G Minor
+Hilario Rhea Langosh | Harp Requiem in B Minor
+Bella Armani Waters | Requiem for Flute No. 5
+Aurelie Marcelle Green | Overture for Violin in G 
+Mackenzie Jamir Rath | Concerto for Percussion in C Minor
+Alexandra Aric Homenick | Clarinet Symphony No. 7
+Stacy Preston Pagac | Etude for Violin in D 
+Karson Assunta Weimann | Cello Prelude in A Major
+Adonis Lowell Kulas | Suite for Harpsichord and Piano
+Shayne Damian Rice | Sonata for Flute No. 2
+Ramon Elmira Stroman | Trumpet Prelude in E 
+Winston Jamey Runte | Symphony for Horn No. 9
+Ayla Hilario Mosciski | Requiem for Flute No. 9
+Freda Roscoe Casper | Harpsichord Overture in C 
+Jana Celia Bernier | Symphony for Harp No. 2
+Bennie Alta Predovic | Trumpet Requiem No. 7
+Uriel Roman Greenfelder | Harp Concerto No. 2
+Arnoldo Frieda Cruickshank | Sonata for Percussion in E 
+Sonia Kaya Anderson | Requiem for Trumpet and Clarinet
+Loy Lilliana Johns | Horn Prelude
+Danielle Garnett Gerlach | Concerto for Trumpet in E Minor
+Alene Noel Gerlach | Requiem for Viola and Clarinet
+Queenie Phyllis Jacobs | Sonata for Harpsichord in F Major
+Allie Golden Collins | Suite for Piano and Harpsichord
+Lexi Micah Sporer | Violin Sonata
+Clifford Monroe Keebler | Viola Concerto No. 1
+Ally Dave Zieme | Percussion Etude in F 
+Grace Estelle Padberg | Harp Etude
+Delaney Magnus Bradtke | Violin Sonata
+Shania Coralie Dibbert | Horn Prelude
+Felipe Baron Rath | Symphony for Cello and Percussion
+Mara Amy Hansen | Requiem for Violin No. 7
+Corine Jane Toy | Harpsichord Requiem
+Claudia Ike Bechtelar | Trumpet Symphony
+Barton Cristian Nader | Suite for Harp No. 7
+Haven Freeda Emmerich | Piano Suite No. 2
+Ladarius Lela Buckridge | Overture for Violin in D Minor
+Jacklyn Elna Steuber | Cello Prelude in G Minor
+Pattie Savanna Kuhlman | Prelude for Flute No. 7
+Kaci Litzy Greenholt | Viola Requiem in E Major
+Leanna Fernando West | Prelude for Viola No. 6
+Althea Adah Becker | Horn Symphony in G Major
+Retta Evert Nader | Prelude for Percussion No. 5
+Destin Cole Walter | Percussion Prelude No. 4
+Rachel Ofelia Koch | Suite for Clarinet in E Minor
+Eldora Courtney Mann | Sonata for Horn in D 
 
-Terry Murray Kassulke | Requiem for Cello and Harp
-Dariana London Bahringer | Etude for Violin No. 4
-Letitia Esmeralda Lebsack | Overture for Harp in F Minor
-Jody Skylar Block | Viola Symphony No. 7
-Ardella Aida Koch | Sonata for Cello in D Minor
-Margarett Magnolia Kassulke | Prelude for Harp in E Minor
-Margaretta Brandt Russel | Requiem for Viola in F 
-Casandra Terrill Roob | Symphony for Violin No. 6
-Ethan Kris Smitham | Concerto for Violin and Flute
-Rosanna Marisa Stracke | Concerto for Clarinet No. 2
-Myrtie Jaeden Stoltenberg | Trumpet Etude
-Dahlia Magnolia Conn | Sonata for Trumpet in G Major
-Willard Rocio McKenzie | Etude for Flute in B Minor
-Clement Johnnie Lubowitz | Etude for Trumpet in F 
-Fred Anastacio Collins | Overture for Horn in E 
-Orlo Ubaldo Smitham | Piano Overture in B 
-Abe Arthur Rosenbaum | Cello Prelude
-Saul Cyrus Senger | Harp Suite
-Wendy Pearline Deckow | Flute Concerto in F Major
-Lourdes Max Funk | Requiem for Trumpet in F Minor
-Kathryne Hadley Schuster | Harp Suite
-Torrey Danielle Hayes | Requiem for Piano in G Minor
-Jan Frieda Gleason | Suite for Horn and Harp
-Alana Keshaun Heidenreich | Percussion Sonata in D 
-Carter Lupe White | Horn Prelude No. 2
-Kaylie Tiffany Wisoky | Etude for Flute and Viola
-Dagmar Magali Dibbert | Suite for Violin and Clarinet
-Rachel Lysanne Roob | Cello Concerto No. 5
-Magdalen Amos Glover | Flute Overture No. 2
-Frances Janet Jenkins | Requiem for Flute and Piano
-Maiya Richard Tromp | Symphony for Flute and Clarinet
-Kyra Zoe Hammes | Sonata for Cello and Harp
-Mina Joshuah Keeling | Prelude for Harpsichord and Cello
-Claudie Cynthia Brakus | Violin Overture in E Major
-Sarah Zetta Christiansen | Flute Etude in E Major
-Hortense Israel Senger | Piano Prelude in C Major
-Alexandre Johanna Wuckert | Piano Suite No. 2
-Fiona Brian Kulas | Symphony for Flute and Piano
-Dock Eli Herzog | Viola Requiem in E 
-Hayden Margaretta Jacobi | Piano Sonata
-Dell Ezekiel Yundt | Violin Etude
-Gunner Harvey O'Kon | Requiem for Piano and Piano
-Robbie Dylan Mann | Requiem for Percussion and Trumpet
-Lydia Laurianne Daniel | Etude for Piano and Cello
-Viola Gillian Konopelski | Harp Requiem
-Adriana Morton Moen | Clarinet Concerto in A 
-Herminia Winifred Yundt | Overture for Viola No. 8
-Rickey Clifford Grady | Prelude for Clarinet No. 4
-Jazmyn Seth Dare | Suite for Harpsichord in A Minor
-Floyd Meta Cole | Etude for Piano in G Minor
-Cristal Asia Hane | Requiem for Harp No. 8
-Grayson Oma Friesen | Etude for Cello and Piano
-Kylee Clovis Hermann | Etude for Harpsichord No. 1
-Sigurd Elsa Trantow | Prelude for Cello and Clarinet
-Angela Jevon Weissnat | Symphony for Trumpet in E Minor
-Henderson Madie Walsh | Prelude for Horn No. 7
-Adam Roy Borer | Horn Symphony No. 4
-Thad Frankie Goldner | Horn Etude
-Ford Lori Emmerich | Symphony for Piano in G Major
-Esteban Myrna Schneider | Etude for Piano in B 
-Destiney Janessa Powlowski | Viola Requiem in D 
-Juana Eleanore Mayert | Cello Requiem No. 7
-Orval Orval Schimmel | Etude for Violin No. 1
-Tressa Abigale Kub | Harp Suite No. 8
-Levi Craig Balistreri | Overture for Harp in A Minor
-Brain Sedrick Koepp | Concerto for Trumpet No. 4
-Clementine Olen Marvin | Clarinet Sonata in G 
-Einar Amiya Kassulke | Cello Sonata in G 
-Raymundo Jayde Stracke | Flute Concerto
-Lue Efrain Weber | Piano Symphony
-Lenna Nico Pollich | Flute Requiem in F 
-Thomas Valerie Pollich | Sonata for Harp No. 9
-Freddy Felton Hickle | Clarinet Requiem
-Misael Deon Murazik | Flute Sonata No. 9
-Wilfred Rocio Bayer | Suite for Piano and Piano
-Zane Onie Morissette | Symphony for Harpsichord in F Minor
-Marion Kamille Howell | Viola Etude No. 1
-Beatrice Celestino Ward | Sonata for Clarinet and Trumpet
-Rosella Mariana Gleason | Piano Concerto in D Minor
-Ceasar Hank Parisian | Concerto for Cello No. 7
-Federico Melany Schmitt | Sonata for Viola and Trumpet
-Laurine Buddy Hahn | Suite for Harpsichord and Harp
-Queen Llewellyn Lubowitz | Cello Suite No. 9
-Natasha Litzy Baumbach | Symphony for Piano in C 
-Frankie Antwon Wunsch | Harpsichord Requiem No. 1
-Yessenia Immanuel Effertz | Violin Overture No. 3
-Burnice Earnest Lemke | Flute Etude No. 5
-Raul Darius Schimmel | Piano Sonata No. 2
-Ella Gay Miller | Clarinet Requiem No. 8
-Elton Dillon Homenick | Percussion Overture
-Claudine Kyle Lakin | Harpsichord Overture
-Abbey Hillard Johnson | Overture for Viola in G 
-Woodrow Darion VonRueden | Etude for Trumpet in G 
-Emerald Reba Herzog | Percussion Overture in D Major
-Michel Elbert Beahan | Harpsichord Suite No. 6
-Kiara Nels Grimes | Trumpet Prelude
-Robert Bulah Langworth | Requiem for Cello No. 6
-Florence Camila Wilkinson | Prelude for Piano No. 6
-Helena Bethany Heathcote | Harpsichord Etude No. 5
-Briana Bradley Abernathy | Clarinet Symphony No. 1
 # Reggae
 
 Artist | Album
 --- | ---
+Winston Kshlerin & The Wailers | Black & Sweet Drifters
+Prince Donna | Jamaican Rockers
+Katelin Grimes & The Upsetters | Free Wisdom
+Prince Kiara | Sweet Smokers
+Brody Hintz & The Drifters | Beautiful Woman
+Tierra Yundt | Rock the River
+Rae Borer | Sweet Smokers
+April Friesen & The Smokers | Sweet Drifters
+King Maegan | Upset the Soul
+Earl Homenick | African King
+Prince Carley | Original Rockers
+Rahul Block | Rock the Babylon
+Derrick Hansen | Dynamite & Dynamite Drifters
+Jodie Mayert & The Smokers | Jamaican Wisdom
+Berniece Mohr & The Drifters | Jamaican Peace
+King Enrico | Rock the Babylon
+Zane Hayes & The Wailers | Upset the Justice
+Tabitha Shields | African King
+Phyllis Greenfelder | Beautiful Upsetters
+Juwan Satterfield & The Smokers | Free Bass
+Black Elissa | Beautiful Rockers
+Darrin Sauer | African Rockers
+King Delphia | Wail the Africa
+Black Armand | Smoke the Zion
+Elouise Roberts | Dynamite Roots
+Queen Lavon | Black Ganja
+Lauriane Steuber & The Smokers | Black & Jamaican Rockers
+Julie Wisoky & The Drifters | Sweet & Black Wailers
+Jed Mayer | Original Dub
+Prince Lenny | Sweet King
+Edwardo Gaylord | Jamaican & Sweet Drifters
+Ignatius Beatty & The Wailers | African & Beautiful Drifters
+Seth Ward | Black & Black Smokers
+Christa Langosh | Drift the Soul
+Erna Powlowski | Smoke the Roots
+Prince Kale | African Zion
+Bernie Gislason & The Upsetters | Black Zion
+Krystel Shields | Original & Black Upsetters
+Prince Armando | Dynamite Wailers
+Elsa Johnston | Original & Free Rockers
+Carli Roberts & The Wailers | Free Upsetters
+Katelynn Ryan & The Smokers | Sweet & African Wailers
+Casper Kovacek & The Smokers | Rock the Babylon
+Queen Rick | Jamaican & Jamaican Rockers
+Amber Huels | Jamaican & Jamaican Rockers
+Claire Okuneva | Wail the Soul
+Prince Wendy | Black Wailers
+Erna Schowalter & The Upsetters | Dynamite Roots
+Julien Considine | Wail the Roots
+Werner O'Keefe | Dynamite & Beautiful Upsetters
+King Yesenia | Drift the Africa
+Queen Cristian | Smoke the Spliff
+Freeman Gleichner & The Drifters | African Wailers
+Roberta Von | Free & African Drifters
+King Reinhold | Wail the Roots
+Queen Maximillia | Drift the Oppression
+Philip Kutch & The Drifters | Dynamite Revolution
+King Korey | Upset the Africa
+Prince Elissa | Original & Jamaican Upsetters
+Caroline Kilback | Rock the Soul
+Queen Lilian | Upset the Ganja
+Joyce Trantow | Drift the Force
+Carmel Predovic | Jamaican & Jamaican Rockers
+Prince Meta | Black Smokers
+Santina Goyette & The Rockers | Dynamite Smokers
+King Nickolas | African & Black Rockers
+Rod Hudson & The Rockers | Upset the Lion
+Rae Gaylord & The Smokers | Wail the Africa
+Rusty Torp | Dynamite & Beautiful Smokers
+Adah Olson & The Drifters | Jamaican Smokers
+Else Sawayn & The Rockers | African & Black Smokers
+Herminia Dicki & The Upsetters | Sweet Wisdom
+Tianna Casper | Dynamite Rockers
+Queen Zachery | Beautiful Spliff
+Ramon Sporer | Smoke the Dread
+Reese Senger & The Smokers | Free Rockers
+Queen Herbert | Jamaican & Beautiful Upsetters
+Skylar Orn | Wail the Bass
+Queen Wyatt | African Zion
+Rogers Goldner | Jamaican Roots
+Everett Boyle | Black & Sweet Smokers
+Thalia Sawayn | Free Wisdom
+Lorine O'Kon | Original Upsetters
+Micheal Lockman & The Wailers | Jamaican & Original Rockers
+Ella Reinger & The Rockers | Sweet Upsetters
+Black Rita | Sweet & Dynamite Wailers
+Queen Karl | Black Upsetters
+Linda Zieme | Original Upsetters
+Dejuan Tromp | Black Drifters
+Tia Ledner & The Drifters | Smoke the Justice
+Zelma Bashirian | African Force
+Candelario Cummerata & The Smokers | African & Sweet Drifters
+Eriberto McClure & The Rockers | Dynamite & Free Drifters
+Prince Garth | Free Babylon
+Ladarius Walter & The Wailers | Free Nature
+Sasha Stamm & The Upsetters | Smoke the Peace
+Marge Botsford | Free Upsetters
+Zack Beier & The Smokers | African & African Upsetters
+Geovany Krajcik | Rock the Roots
+King Marco | Free & Beautiful Smokers
 
-Albin Mitchell & The Wailers | Beautiful & Free Upsetters
-Black Maritza | Original & Jamaican Wailers
-Toby Upton | African Rockers
-Queen Daphne | Original & Dynamite Upsetters
-Frederique Grant | Upset the River
-Ernestine Kilback | Black Soul
-Sincere Friesen | Black Dub
-Lemuel Jaskolski & The Wailers | Dynamite Smokers
-Halie Thompson & The Smokers | Dynamite & Jamaican Upsetters
-Eli Cormier & The Drifters | Jamaican & Black Wailers
-Vergie Hammes & The Wailers | Beautiful Nature
-Alvena Hills & The Wailers | Wail the Justice
-Black Gillian | Black Nature
-Adriana Leffler | Rock the Bass
-Lon Funk | Original & Original Rockers
-Jaycee Runte | African Oppression
-Cristal Williamson & The Smokers | Upset the Zion
-Jerrod Schaden | Black Babylon
-Vernon Konopelski | Original & Jamaican Upsetters
-Isadore Beer & The Wailers | Rock the Spliff
-Rosalinda Kuphal & The Upsetters | Sweet & Sweet Drifters
-Preston Hand & The Wailers | Dynamite River
-Eugenia Moen | Original Upsetters
-Noemy O'Keefe & The Rockers | Free Lion
-Hoyt Altenwerth | Original Smokers
-Bernhard Zboncak & The Rockers | Sweet & Dynamite Rockers
-Brice Bahringer | Dynamite Ganja
-Prince Lucie | Smoke the Force
-Kristian Balistreri & The Drifters | Original Wisdom
-Prince Alexie | Dynamite & Sweet Smokers
-Alaina Haley | Free & Jamaican Drifters
-Queen Garrick | Free Force
-Black Magdalen | Free Upsetters
-Shany Mante & The Upsetters | African & Beautiful Drifters
-Queen Ines | Dynamite River
-Paxton Tillman | Smoke the Ganja
-Prince Jeffery | Original & African Rockers
-Amelie Reynolds | Jamaican Drifters
-Destin Barton & The Smokers | African Wailers
-Waylon Huels & The Smokers | Dynamite Smokers
-Queen Lilian | Black Smokers
-Briana Douglas | Sweet Wailers
-Genoveva Feil | Smoke the Peace
-Prince Madge | Smoke the Rebel
-Queen Jorge | Drift the Dub
-Percival Schumm & The Upsetters | Free King
-Camilla Breitenberg | Beautiful Wailers
-King Maggie | Jamaican Smokers
-Black Elinore | Upset the Africa
-Garry Ward & The Upsetters | Jamaican Bass
-Lilyan Hegmann | Free Nature
-Jerel Witting & The Smokers | Drift the Ganja
-Prince Vicky | Beautiful Wailers
-Aric Rosenbaum & The Drifters | Jamaican & Dynamite Drifters
-Ewald Boyle | Sweet Drifters
-Charlotte Schiller | Original Drifters
-King Elinore | Original Rebel
-Johathan Koss | Jamaican & Sweet Wailers
-Jaquan Fay & The Upsetters | Free & Dynamite Wailers
-Freddie Emmerich | Smoke the Justice
-Black Beverly | Beautiful & Beautiful Upsetters
-Black Clara | Dynamite Upsetters
-Queen Rosendo | Black & Jamaican Upsetters
-Prince Kamren | African Drifters
-Reyna Schaefer | Smoke the Zion
-Prince Sarah | Free Rockers
-Jamarcus Hauck & The Drifters | Rock the Lion
-Bradly Ziemann | Rock the Woman
-Black Marty | Black & Free Drifters
-King Micheal | African & Beautiful Wailers
-Prince Dock | Jamaican Africa
-Queen Jade | Dynamite Roots
-Al Leffler & The Drifters | Sweet & Sweet Smokers
-Lauriane Frami & The Smokers | Drift the Nature
-Prince Kelsi | Rock the Bass
-Black Ernesto | Jamaican Revolution
-Queen Keagan | Black Justice
-Jewel Stamm & The Drifters | Sweet Upsetters
-Colton Bayer | Beautiful & Dynamite Wailers
-Black Maurice | Free & Jamaican Upsetters
-Black Vida | African & Dynamite Smokers
-Madalyn Ferry | Upset the Lion
-Shanna Brown & The Upsetters | Original Soul
-Nora Rippin | Dynamite & Dynamite Wailers
-Trystan Shanahan | Original & Dynamite Wailers
-Dorris Pfeffer & The Drifters | Dynamite Lion
-Queen Carlos | Sweet Smokers
-Howard Kunze | Original & Sweet Wailers
-Robert Koch | Drift the Wisdom
-Prince Elisabeth | Beautiful Upsetters
-Prince Andreanne | Smoke the Spliff
-Delfina Simonis | African Rockers
-Robert Johnston & The Upsetters | Rock the Zion
-Black Aniyah | Sweet Rockers
-King Gussie | Free & Dynamite Drifters
-King Caesar | Black & Sweet Rockers
-Dortha Frami | African Wailers
-Vena Casper & The Drifters | African Wisdom
-Lonnie Monahan | Original King
-Black Abelardo | Drift the Israel
 # HipHop
 
 Artist | Album
 --- | ---
+M.C. Joey | Breakin' This D.J.
+Daddy JC | Throw Smart
+Triple-Z Dylan | This Script is Special
+Mixmaster Dynamite Ted | I'm Killin' Cold
+Leola JA | I'm Jazzy
+Kenton Triple-O | Throw Sweet
+Mixmaster Adolf | Some Super Music
+D.J. Chilly Barton | Flip The Script
+Master Judd | Kill The Beat
+Ardith J | Rockin' Cold
+Mixmaster Fast Chelsey | Some Kool Rapper
+Nasty H | The House is Special
+Daddy Magic Jameson | Scratch Dumb
+Sweet Double-X | Some Ruff Doctor
+MC Triple-W | Bounce Sweet
+Doctor Quentin | This Skinny House
+Ari DU | You're Nice, You're Busy
+Deejay Clark | I'm Throwin' All Day
+Treacherous RD | Move Little
+Deejay DG | Rockin' Some Script
+Kristian Double-Q | You're Grand, You're Furious
+Jordi GU | Junior Business
+Sweet Vivien | This Raw Break
+Triple-T Alek | Scratchin' Forever
+Cool Salma | Fresh, Fresh & Tuff
+Dr. K | Incredible, Fabulous & Nice
+Jazzy Ella | It's Some Script
+Linnie Double-R | We're Movin' All Night
+MC Double-K | Some Marvelous Doctor
+Joelle DH | Scratchin' To Da Break O Dawn
+Grandmixer Double-N | You're The Doctor
+Dedrick U | Master Business
+D.J. Double-B | We're Breakin' Forever
+M.C. Natalia | Super Break
+Kool Kenyatta | Magnificent Planet
+D.J. Triple-O | Breakin' Junior
+Dr. Brian | Kill Smooth
+MC Smart Christop | Scratchin' Some Treacherous Technician
+DJ Kiel | I'm Dynamite
+M.C. Double-K | Special, Tuff & Smart
+Daddy Vada | Live Funky
+MC Double-I | Tricky, Super & Marvelous
+Trevor Y | I'm Breakin' Forever
+Slick Maci | This Rapper
+Nice O | Vicious House
+Smelly Hal | Rockin' This Groove
+Thaddeus Double-L | Killin' This Lil' House
+Slick Double-Y | I'm Movin' All Night
+Ruff UG | Livin' Kool
+Tad Triple-Z | This Flow
+Triple-U Fanny | This Dark Rhythm
+Triple-D Godfrey | This Skinny House
+Double-G Quinn | Little Groove
+Ruff Triple-F | Scratchin' The Planet
+Hot Queen | Throwin' This Lil' Technician
+Double-C Sabina | It's Some Rapper
+Master P | Some Furious Rhythm
+Daddy Tricky Dante | We're Master, It's Magnetic
+Fredrick BU | Some Tricky Flow
+Daddy JK | You're The Break
+Ransom XE | We're Killin' Groovy
+Westley WH | I'm Chubby, We're Nice
+Classy Isaac | Super, Skinny & Chilly
+Bill W | Slick & Deadly
+Triple-V Mariana | Magnetic, Incredible & Chubby
+Quincy Double-K | Marvelous & Smooth
+Triple-O Jeremy | Some Classy Break
+Double-F Eliezer | Bounce Raw
+MC Flexible Abbigail | Scratchin' Some Rapper
+Double-H Liam | Throwin' All Night
+D.J. Magnificent Lorenza | It's The Music
+Nakia I | Livin' Smooth
+Emcee Double-T | Smelly Rhythm
+Daddy Cleta | Tough, Magic & Magnificent
+Doctor Kennedi | The Music is Smooth
+Jany CF | Nice, Smart & Skinny
+Double-H America | Follow The Script
+Willa Triple-Q | This Music
+Magnificent Triple-W | This Rapper
+Flexible Janae | Some D.J. is Lil'
+Master Gregoria | Scratch Fast
+Fritz LH | You're Magnificent, You're Little
+DJ Kavon | Move Cool
+Asa K | Killin' This Business
+Tough Precious | Movin' All Night
+Grandwizard Jaquelin | Breakin' This House
+M.C. Double-Y | Move Sweet
+Vicious Claire | I'm Throwin' All Day
+Daddy Cold General | Bounce Sweet
+Jermaine Double-N | Live Lil'
+Double-W Bryon | I'm Groovy, I'm Nice
+Master Treacherous Broderick | The Smelly Business
+Mixmaster Hardy | We're Smart
+Grandmaster Double-D | Throw Hot
+Grandmixer Double-O | Some Skinny Script
+Dr. Marvelous Elroy | Rappin' This Music
+Nasty Ole | You're Treacherous, I'm Dumb
+Emcee D | We're Fast, You're Junior
+Sheldon I | It's Sweet, It's Nice
+Doctor Triple-Z | Some Beat
 
-Vicious H | You're Some Music
-DJ H | This Beat
-Triple-A Summer | Fast & Incredible
-Dumb Dustin | Bounce Flexible
-Magic Double-W | This Magnificent Break
-Daddy Fresh Shanon | I'm Master
-Grandmaster Triple-Y | We're Deadly
-Daddy Double-G | Killin' Nice
-Earlene Triple-C | I'm Rockin' All The Time
-Enoch XN | Some Music is Dumb
-Fancy MD | We're Groovy
-Triple-O Maeve | Some Break is Smelly
-M.C. Double-X | Tough House
-Nasty Triple-V | Some Chubby Technician
-Sarai KY | Rock The Rapper
-Chilly Triple-I | Rappin' This Break
-Triple-G Kiara | You're Smooth
-Emcee Vicious Reymundo | I'm Some Doctor
-Double-S Ardella | Rockin' Sweaty
-D.J. Incredible Ewell | Breakin' Killer
-Triple-Y Jewel | You're Nice
-Grandmaster Fat Sigrid | Dynamite, Smooth & Jazzy
-Chaim Triple-P | Rockin' Deadly
-Osborne Triple-L | Hot Script
-Jazzy Double-W | I'm The House
-Double-J Marlon | I'm Rappin' Forever
-Master Tiana | Flip Ruff
-Double-U Juston | We're Breakin' Forever
-MC Triple-Z | Little, Dark & Incredible
-Jerrold DB | Killin' All The Time
-D.J. Sweaty Russell | Livin' All The Time
-DJ KX | It's Slick, You're Grand
-Grandwizard PN | You're This Flow
-Grandmixer Double-C | I'm The Business
-Dr. Flexible Holden | The Flow is Raw
-Triple-G Rick | Breakin' Furious
-Double-M Bethany | You're Movin' Forever
-Fresh VK | Movin' The Fantastic D.J.
-Missouri RB | I'm Some Flow
-Joelle Triple-J | Sweet Groove
-Marvelous Oran | We're Movin' All The Time
-Dr. Double-S | We're Lil'
-Triple-A Abigale | Follow Skinny
-Chadrick Double-Q | Live The Flow
-Tessie T | I'm Killer, I'm Deadly
-Doctor Telly | Magnificent Technician
-Jarrod ED | The Business
-Kian Triple-C | Rappin' Kool
-Dr. Kendall | Throw Grand
-Vicious Double-W | Move Busy
-Grandmaster J | Flip The Business
-Daddy Furious Sean | You're Breakin' Furious
-Daddy Double-H | Throwin' This Technician
-Double-A Kasandra | Some Planet is Fresh
-Mixmaster Cold Wava | Incredible Rhythm
-Elnora Triple-J | Breakin' The Script
-Magnificent PU | Breakin' This Ruff Business
-Triple-M Jillian | Dumb & Marvelous
-Emcee C | Some Music is Fat
-Master Double-R | Throwin' Some Magic Script
-Hot Nestor | It's Rappin' Grand
-DJ Lizeth | We're Little
-Double-H Josefina | Kill The Flow
-Grandmixer Treacherous Alverta | Classy & Smelly
-Hot Double-H | Chubby & Incredible
-Doctor CO | I'm Special, You're Little
-Ruby G | Chubby Beat
-Earlene Triple-K | It's Breakin' Fabulous
-Sweet JE | You're Fancy, I'm Vicious
-Triple-K Arno | It's Groovy
-Furious Double-A | Flip Raw
-Deejay Triple-I | Live Smart
-Mixmaster Jon | Throwin' All Day
-Grandwizard V | Follow Tricky
-Jaida PE | You're Chilly
-D.J. S | It's The Flow
-DJ MS | Move The Music
-MC Marvelous Stanley | The Deadly Music
-Nasty Jairo | Magic, Magnificent & Jazzy
-Adele Triple-O | Ruff Rapper
-Doctor CX | Smelly Music
-Valentina JU | Rock The Groove
-Classy Triple-U | Killin' This Business
-Raw FS | Rappin' This Flow
-Dolly Double-Q | You're Rappin' Cold
-Lorenzo Triple-I | We're Scratchin' Forever
-Grandmixer WL | You're Livin' Dark
-Antonette Double-Z | Furious, Fancy & Master
-MC Fast Imani | Livin' Fresh
-Trey CJ | Chubby, Fat & Treacherous
-Grandmixer RS | Nasty, Fancy & Incredible
-Nice Triple-D | Rockin' Little
-Smelly Double-N | Scratch The D.J.
-Delta DM | Throwin' The Super Flow
-Micheal U | Movin' This Magic Rapper
-Dr. Triple-Q | The Dynamite Doctor
-MC Triple-J | It's The Break
-Double-J Kyra | The Rapper is Super
-M.C. Janet | It's Breakin' Busy
-Fat QB | Vicious Music
