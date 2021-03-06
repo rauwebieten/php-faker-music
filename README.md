@@ -3,7 +3,7 @@
 A pop music provider for 
 [fakerphp/faker](https://fakerphp.github.io/)
 
-[![Latest Stable Version](https://poser.pugx.org/rauwebieten/php-faker-music/v)](//packagist.org/packages/rauwebieten/php-faker-music) [![Total Downloads](https://poser.pugx.org/rauwebieten/php-faker-music/downloads)](//packagist.org/packages/rauwebieten/php-faker-music) [![Latest Unstable Version](https://poser.pugx.org/rauwebieten/php-faker-music/v/unstable)](//packagist.org/packages/rauwebieten/php-faker-music) [![License](https://poser.pugx.org/rauwebieten/php-faker-music/license)](//packagist.org/packages/rauwebieten/php-faker-music) [travis-web](https://www.travis-ci.com/rauwebieten/php-faker-music.svg?branch=master&status=unknown)
+[![Latest Stable Version](https://poser.pugx.org/rauwebieten/php-faker-music/v)](//packagist.org/packages/rauwebieten/php-faker-music) [![Total Downloads](https://poser.pugx.org/rauwebieten/php-faker-music/downloads)](//packagist.org/packages/rauwebieten/php-faker-music) [![Latest Unstable Version](https://poser.pugx.org/rauwebieten/php-faker-music/v/unstable)](//packagist.org/packages/rauwebieten/php-faker-music) [![License](https://poser.pugx.org/rauwebieten/php-faker-music/license)](//packagist.org/packages/rauwebieten/php-faker-music) [![Build Status](https://www.travis-ci.com/rauwebieten/php-faker-music.svg?branch=master)](https://www.travis-ci.com/rauwebieten/php-faker-music)
 
 ## Installation
 
