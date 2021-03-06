@@ -22,8 +22,15 @@ class MetalTest extends TestCase
         $this->faker = $faker;
     }
 
+    public function testAlbum(): void 
+    {
+        $this->assertNotEmpty($this->faker->musicMetalAlbum);
+        $this->assertNotEmpty($this->faker->musicMetalAlbum());
+    }
+
     public function testAlbumArtist(): void
     {
         $this->assertNotEmpty($this->faker->musicMetalArtist);
+        $this->assertNotEmpty($this->faker->musicMetalArtist());
     }
 }

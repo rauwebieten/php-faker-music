@@ -22,8 +22,15 @@ class ClassicalTest extends TestCase
         $this->faker = $faker;
     }
 
+    public function testAlbum(): void 
+    {
+        $this->assertNotEmpty($this->faker->musicClassicalAlbum);
+        $this->assertNotEmpty($this->faker->musicClassicalAlbum());
+    }
+
     public function testAlbumArtist(): void
     {
         $this->assertNotEmpty($this->faker->musicClassicalArtist);
+        $this->assertNotEmpty($this->faker->musicClassicalArtist());
     }
 }

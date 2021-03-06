@@ -22,8 +22,15 @@ class DanceTest extends TestCase
         $this->faker = $faker;
     }
 
+    public function testAlbum(): void 
+    {
+        $this->assertNotEmpty($this->faker->musicDanceAlbum);
+        $this->assertNotEmpty($this->faker->musicDanceAlbum());
+    }
+
     public function testAlbumArtist(): void
     {
         $this->assertNotEmpty($this->faker->musicDanceArtist);
+        $this->assertNotEmpty($this->faker->musicDanceArtist());
     }
 }

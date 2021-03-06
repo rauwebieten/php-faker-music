@@ -22,8 +22,15 @@ class ReggaeTest extends TestCase
         $this->faker = $faker;
     }
 
+    public function testAlbum(): void 
+    {
+        $this->assertNotEmpty($this->faker->musicReggaeAlbum);
+        $this->assertNotEmpty($this->faker->musicReggaeAlbum());
+    }
+
     public function testAlbumArtist(): void
     {
         $this->assertNotEmpty($this->faker->musicReggaeArtist);
+        $this->assertNotEmpty($this->faker->musicReggaeArtist());
     }
 }
