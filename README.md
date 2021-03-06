@@ -1,7 +1,7 @@
 # PHP Faker music
 
 A pop music provider for 
-[fzaninotto/faker](https://github.com/fzaninotto/Faker)
+[fakerphp/faker](https://fakerphp.github.io/)
 
 ## Installation
 
