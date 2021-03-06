@@ -1,7 +1,8 @@
 {
   "name": "rauwebieten/php-faker-music",
   "require": {
-    "fzaninotto/faker": "^1.7"
+    "fakerphp/faker": "^1.13",
+    "phpunit/phpunit": "^7.0|^8.0|^8.5|^9.0|^9.5"
   },
   "require-dev": {
     "symfony/var-dumper": "^3.3.9"
@@ -9,6 +10,11 @@
   "autoload": {
     "psr-4": {
       "RauweBieten\\PhpFakerMusic\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Faker\\Tests\\Provider\\": "tests/Faker"
     }
   }
 }
